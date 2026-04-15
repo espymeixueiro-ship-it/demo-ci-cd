@@ -1,0 +1,6 @@
+projectKey=demo-ci-cd
+serverUrl=http://localhost:9000
+serverVersion=26.4.0.121862
+dashboardUrl=http://localhost:9000/dashboard?id=demo-ci-cd
+ceTaskId=132d81f4-17d9-4bc0-9ce1-8c42e43bbfe9
+ceTaskUrl=http://localhost:9000/api/ce/task?id=132d81f4-17d9-4bc0-9ce1-8c42e43bbfe9
